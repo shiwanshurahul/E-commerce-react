@@ -1,2 +1,2 @@
 Shopping cart using React and CSS
-Created various routes like Cart, Shop, Contact to make UI Interactive.
+Created different routes like Cart, Shop, Contact to display various pages and make Website Interactive.
